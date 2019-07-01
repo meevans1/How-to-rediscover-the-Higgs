@@ -1,6 +1,6 @@
 # How-to-rediscover-the-Higgs 
 ## Jupyter notebook with steps to rediscover the Higgs boson yourself!
-.. image:: https://dev.azure.com/me338/me338/_build?definitionId=1
+.. image:: https://dev.azure.com/me338/me338/_apis/build/status/How-to-rediscover-the-Higgs?branchName=master
     :target: https://dev.azure.com/me338/me338
 
 Download this repository as a ZIP https://github.com/meevans1/How-to-rediscover-the-Higgs/archive/master.zip
