@@ -1,5 +1,7 @@
-# How-to-rediscover-the-Higgs [![Build Status](https://travis-ci.com/meevans1/How-to-rediscover-the-Higgs.svg?branch=master)](https://travis-ci.org/meevans1/How-to-rediscover-the-Higgs)
+# How-to-rediscover-the-Higgs 
 ## Jupyter notebook with steps to rediscover the Higgs boson yourself!
+.. image:: https://dev.azure.com/me338/me338/_build?definitionId=1
+    :target: https://dev.azure.com/me338/me338
 
 Download this repository as a ZIP https://github.com/meevans1/How-to-rediscover-the-Higgs/archive/master.zip
 
