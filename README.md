@@ -1,10 +1,9 @@
-.. image:: HZZ_feynman.pdf
-   :align: center
-
 # How-to-rediscover-the-Higgs 
 ## Jupyter notebook with steps to rediscover the Higgs boson yourself!
 ------
 [![Build Status](https://dev.azure.com/me338/me338/_apis/build/status/How-to-rediscover-the-Higgs?branchName=master)](https://dev.azure.com/me338/me338)
+
+<CENTER><img src="HZZ_feynman.pdf" style="width:40%"></CENTER>
 
 Download this repository as a ZIP https://github.com/meevans1/How-to-rediscover-the-Higgs/archive/master.zip
 
