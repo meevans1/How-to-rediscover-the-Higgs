@@ -1,12 +1,10 @@
 # How-to-rediscover-the-Higgs
-Jupyter notebook with steps to rediscover the Higgs boson yourself!
+## Jupyter notebook with steps to rediscover the Higgs boson yourself!
 
-Click "Clone or download" in green
+Download this repository as a ZIP https://github.com/meevans1/How-to-rediscover-the-Higgs/archive/master.zip
 
-Download as ZIP
+Unzip the file in the Downloads folder on your computer
 
-Unzip the file
-
-Open a jupyter notebook using your favourite Python environment (mine is Anaconda)
+Open a [Jupyter notebook](https://jupyter.org) using your favourite [https://www.python.org](Python) (3.6 or above) environment (mine is [Anaconda](https://www.anaconda.com/distribution/))
 
 Click on How-to-rediscover-the-Higgs.ipynb
