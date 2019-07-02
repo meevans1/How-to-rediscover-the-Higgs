@@ -1,5 +1,12 @@
 language: python
 python:
- - 3.6
-# command to run tests
-script: pytest
+    - 3.6
+install:
+    - pip install pytest pytest-cov --upgrade
+    - pip install codecov --upgrade
+    - pip install pylint --upgrade
+script:
+    - py.test --cov=./
+    - pylint ipynb
+after_success:
+    - codecov
