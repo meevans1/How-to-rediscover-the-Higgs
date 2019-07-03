@@ -30,4 +30,6 @@ Click "Commit changes" in green
 
 Click on "Compare & pull request" in the yellow bar that should appear.
 
+This way of uploading your entry ensures you can be properly recognised for your contribution to code, then allowing you to show it off on CVs, for example.
+
 ![HZZ Feynman diagram](HZZ_feynman.png)
