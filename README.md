@@ -4,7 +4,13 @@
 [![Build Status](https://dev.azure.com/me338/me338/_apis/build/status/How-to-rediscover-the-Higgs?branchName=master)](https://dev.azure.com/me338/me338)
 ----
 
-## Get Started
+## Get Started (online)
+Click here! ---> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meevans1/How-to-rediscover-the-Higgs/master)
+
+Click on How-to-rediscover-the-Higgs.ipynb
+
+
+## Get Started (on your own laptop)
 Download this repository as a ZIP https://github.com/meevans1/How-to-rediscover-the-Higgs/archive/master.zip
 
 Unzip the file in the Downloads folder on your computer
