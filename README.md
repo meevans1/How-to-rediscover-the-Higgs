@@ -20,6 +20,10 @@ Open a [Jupyter notebook](https://jupyter.org) using your favourite [Python](htt
 Click on How-to-rediscover-the-Higgs.ipynb
 
 ## Enter the code competition (Make a pull request)
+In your notebook, File -> Download as -> Notebook (.ipynb)
+
+In the tab labelled 'Home' on your web browser, right click on plot.pdf to download it.
+
 Make a GitHub account https://github.com/join?source=header-home
 
 Click on "Branch: master" above the list of files in this repository
