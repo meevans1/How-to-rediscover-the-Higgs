@@ -9,6 +9,10 @@ Click here! ---> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybind
 
 Click on How-to-rediscover-the-Higgs.ipynb
 
+## Get help
+
+This live google doc will be updated with hints https://docs.google.com/document/d/1gBp7CDJodkajB_KjLCb-6AuHMt5tELokGTQRITP-7n8/edit
+
 
 ## Get Started (on your own laptop)
 Download this repository as a ZIP https://github.com/meevans1/How-to-rediscover-the-Higgs/archive/master.zip
