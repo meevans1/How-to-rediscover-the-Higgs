@@ -21,7 +21,7 @@ Unzip the file in the Downloads folder on your computer
 
 Open a [Jupyter notebook](https://jupyter.org) using your favourite [Python](https://www.python.org) (3.6 or above) environment (mine is [Anaconda](https://www.anaconda.com/distribution/))
 
-Click on How-to-rediscover-the-Higgs.ipynb
+Click on How-to-rediscover-the-Higgs.ipynb (either the original one you downloaded or your version that you downloaded)
 
 ## Enter the code competition (Make a pull request)
 In your notebook, File -> Download as -> Notebook (.ipynb)
