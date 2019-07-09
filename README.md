@@ -30,9 +30,9 @@ Click on "Branch: master" above the list of files in this repository
 
 Type your names
 
-Click on "Create branch: *your_name* from 'master'"
+Click on "Create branch: *NameSurname-NameSurname-NameSurname...* from 'master'"
 
-Click on "Upload file" to the right of the "Branch: *your_names*"
+Click on "Upload file" to the right of the "Branch: *NameSurname-NameSurname-NameSurname...*"
 
 Upload your ipynb notebook & pdf plot
 
