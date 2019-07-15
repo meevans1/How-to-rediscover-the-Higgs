@@ -1,8 +1,7 @@
 # How-to-rediscover-the-Higgs 
 ## Jupyter notebook with steps to rediscover the Higgs boson yourself!
 ------
-[![Build Status](https://dev.azure.com/me338/me338/_apis/build/status/How-to-rediscover-the-Higgs?branchName=master)](https://dev.azure.com/me338/me338)
-----
+
 
 ## Get Started (online)
 Click here! ---> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meevans1/How-to-rediscover-the-Higgs/master)
